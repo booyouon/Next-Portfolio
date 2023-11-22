@@ -2,8 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Next.js Blog Starter Kit',
-    description: 'Clone and deploy your own Next.js portfolio in minutes.',
+    title: 'Vince Abuyuan',
+    description:
+      'Vince Abuyuan is a Software Engineer based in Los Angeles, California. He is passionate about building products that help people and businesses',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
 
